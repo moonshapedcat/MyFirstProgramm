@@ -4,6 +4,7 @@ public class Main {
     System.out.println ("One more row!");
     System.out.println ("Row for third commit!");
     System.out.println ("EXCLUSIVE!");
+    System.out.println ("Row for alter commit!");
     }
 
 }
